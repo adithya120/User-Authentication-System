@@ -1,0 +1,1 @@
+bgImage=ImageTk.PhotoImage(file='bg.jpg')
